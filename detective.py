@@ -1,4 +1,4 @@
-club = "Hack Pak"
+club = "Hack Pack"
 
 def greet(name)
     print("Welcome " + student_nam)
